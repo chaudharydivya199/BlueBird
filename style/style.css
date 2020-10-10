@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    background-color: #bbe1fa;
+}
+
+.navbar{
+    background-color: #1b262c;
+}
+
+#nav-dropdown-button{
+    background-color: #3282b8;
+    color: white;
+}
+
+#sign-buttons{
+    color: white;
+}
+
+#login-button{
+    background-color: #2eb872;
+    color: white;
+}
+
+#signup-button{
+    background-color: #f33535;
+    color: white;
+}
+
+#card-container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
